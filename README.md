@@ -1,17 +1,23 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">  
 
-I am Mohit Gaur
-<!--
-**Mohit-Gaur/Mohit-Gaur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Mohit, currently pursuing a Bachelor’s degree in Information Technology from KIIT University.
+- 🌱 Currently working on Web and App Development.
+- 📫 You can reach me at mohit30gaur@gmail.com
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+<!-- 
+- 🔭 Currently working on ...
+- 🌱 Currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 📫 You can reach me at mohit30gaur@gmail.com
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: ... -->
+
+<!--📈 My GitHub Stats -->
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Mohit-Gaur&show_icons=true&theme=react&count_private=true&hide=issues,contribs" />  
+
+<!-- <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohit-Gaur&langs_count=9" /> -->
+<!-- **Mohit-Gaur/Mohit-Gaur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+
