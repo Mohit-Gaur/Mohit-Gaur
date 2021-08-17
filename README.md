@@ -1,7 +1,7 @@
 ### Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">,
 
 I'm Mohit Gaur, currently pursuing a Bachelor’s degree in Information Technology from KIIT University.
-- 🌱 Currently working on Web and App Development.
+- 🌱 Currently working on Test Automation, Web and App Development.
 - 📫 You can reach me at mohit30gaur@gmail.com
 
 <!-- 
