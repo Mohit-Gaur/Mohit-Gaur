@@ -2,7 +2,6 @@
 
 I'm Mohit Gaur,
 - 🌱 Currently working on DevOps, CI/CD, Web and App Development.
-- 📫 You can reach me at mohit30gaur@gmail.com
 
 <!-- 
 - 🔭 Currently working on ...
