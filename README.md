@@ -1,4 +1,4 @@
-### Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="2px">,
+### Hello there,
 
 I'm Mohit Gaur,
 - 🌱 Currently working on DevOps, CI/CD, Web and App Development.
