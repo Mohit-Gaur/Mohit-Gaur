@@ -1,7 +1,6 @@
 ### Hello there,
 
-I'm Mohit Gaur,
-- 🌱 Currently working on DevOps, CI/CD, Web and App Development.
+I'm Mohit Gaur 👋
 
 <!-- 
 - 🔭 Currently working on ...
