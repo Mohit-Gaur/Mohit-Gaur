@@ -1,6 +1,6 @@
 ### Hello there,
 
-I'm Mohit Gaur 👋
+I'm Mohit Gaur 👋, a Software Quality Engineer on the Platform Engineering team at Red Hat.
 
 <!-- 
 - 🔭 Currently working on ...
